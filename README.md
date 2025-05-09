@@ -1,20 +1,12 @@
-## Hi there, i'am Chandana T 👋
 
+# Hi, I'm Chandana T 👋
 
-**** 
-<h1>i'am from Bangalore</h1>
-💻 Full Stack Java Developer | Backend with Java (Spring Boot), Frontend with HTML, CSS, JS  
-🌐 Building scalable web apps and APIs  
-🔭 Currently working on: A REST API project and a React + Spring Boot app
+I'm a full-stack developer who loves building scalable web apps.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on some projects
+- 🌱 I’m learning advance java and javascript
+- 💬 Ask me about Python, React, or system design
+- 📫 Reach me at chandanatchandana46@gmail.com
+- ⚡ Fun fact: I can solve a Rubik’s cube in under a minute
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+![Jane's GitHub stats](https://github-readme-stats.vercel.app/api?username=janedoe&show_icons=true&theme=radical)
