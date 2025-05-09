@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**Chandana T** 
+***Chandana T** *
 <h1>i'am from Bangalore</h1>
 💻 Full Stack Java Developer | Backend with Java (Spring Boot), Frontend with HTML, CSS, JS  
 🌐 Building scalable web apps and APIs  
