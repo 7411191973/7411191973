@@ -10,4 +10,4 @@ I'm a full-stack developer who loves building scalable web apps.
 - ⚡ Fun fact: I can solve a Rubik’s cube in under 3 minute
 
 ## 📈 GitHub Stats
-![Chandana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravi-dev&show_icons=true&theme=tokyonight)
+![Chandana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chandana&show_icons=true&theme=tokyonight)
