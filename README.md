@@ -9,4 +9,4 @@ I'm a full-stack developer who loves building scalable web apps.
 - 📫 Reach me at chandanatchandana46@gmail.com
 - ⚡ Fun fact: I can solve a Rubik’s cube in under 3 minute
 
-![Chandana's GitHub stats](https://github-readme-stats.vercel.app/api?username=janedoe&show_icons=true&theme=radical)
+![Chandana's GitHub stats](https://github.com/7411191973/7411191973/blob/main/README.md)
