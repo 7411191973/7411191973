@@ -1,7 +1,10 @@
 ## Hi there 👋
 
 
-**Chandana T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Chandana T** 
+💻 Full Stack Java Developer | Backend with Java (Spring Boot), Frontend with HTML, CSS, JS  
+🌐 Building scalable web apps and APIs  
+🔭 Currently working on: A REST API project and a React + Spring Boot app
 
 Here are some ideas to get you started:
 
