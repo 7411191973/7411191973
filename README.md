@@ -7,6 +7,6 @@ I'm a full-stack developer who loves building scalable web apps.
 - 🌱 I’m learning advance java and javascript
 - 💬 Ask me about Python, React, or system design
 - 📫 Reach me at chandanatchandana46@gmail.com
-- ⚡ Fun fact: I can solve a Rubik’s cube in under a minute
+- ⚡ Fun fact: I can solve a Rubik’s cube in under 3 minute
 
-![Jane's GitHub stats](https://github-readme-stats.vercel.app/api?username=janedoe&show_icons=true&theme=radical)
+![Chandana's GitHub stats](https://github-readme-stats.vercel.app/api?username=janedoe&show_icons=true&theme=radical)
