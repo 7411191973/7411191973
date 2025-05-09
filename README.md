@@ -2,6 +2,7 @@
 
 
 **Chandana T** 
+<h1>i'am from Bangalore</h1>
 💻 Full Stack Java Developer | Backend with Java (Spring Boot), Frontend with HTML, CSS, JS  
 🌐 Building scalable web apps and APIs  
 🔭 Currently working on: A REST API project and a React + Spring Boot app
